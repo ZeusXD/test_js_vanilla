@@ -27,7 +27,7 @@
   "author": "Zeus",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "browserify": "^16.2.2",
     "reading-time": "^1.2.0",
     "watchify": "^3.11.1"
